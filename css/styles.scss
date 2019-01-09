@@ -1,0 +1,24 @@
+//Librerias, stting y variables
+
+@import 'lib/variables.scss';
+@import 'lib/_mixins.scss';
+
+
+//Elementos bases
+
+@import 'base/_tablas.scss';
+@import 'base/_botones.scss';
+@import 'base/_tipografia.scss';
+@import 'base/_links.scss';
+@import 'base/_icons.scss';
+
+
+//Components
+
+@import 'components/_grid.scss';
+
+@import 'components/_utilities.scss';
+
+//Layout
+
+@import 'layout/_layout.scss';
